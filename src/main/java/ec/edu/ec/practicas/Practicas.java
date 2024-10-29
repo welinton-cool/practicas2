@@ -11,6 +11,8 @@ package ec.edu.ec.practicas;
 public class Practicas {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("hol mundo");
+        System.out.println("ahi cambios ");
+        
     }
 }
